@@ -60,7 +60,7 @@ SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs1
 
 **Contributing**
 
-We welcome contributions to enhance the functionality and usability of the Hospital Management System. Please fork the repository, make your changes, and submit a pull request.
+We welcome contributions to enhance the functionality and usability of the PLURA. Please fork the repository, make your changes, and submit a pull request.
 
 **License**
 This project is licensed under the janmejaysingh License.
