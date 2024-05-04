@@ -13,9 +13,10 @@ SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs1
 
 ## Features
 
--**🤯 Multivendor B2B2B Saas**
--**🏢 Agency and Sub accounts**
--**🌐 Unlimited funnel hosting**
+**🤯 Multivendor B2B2B Saas**
+
+**🏢 Agency and Sub accounts**
+**🌐 Unlimited funnel hosting**
 -**🚀 Full Website & Funnel builder**
 -**💻 Role-based Access**
 -**🔄 Stripe Subscription plans**
